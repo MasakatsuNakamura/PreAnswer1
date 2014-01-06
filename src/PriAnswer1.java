@@ -1,3 +1,5 @@
+import java.io.*;
+
 class RiceCake{
     void eat(){
         System.out.println("お餅");
@@ -16,5 +18,11 @@ public class PriAnswer1{
         food[1].eat(); //(2)
         ((RiceCake)food[1]).eat();     //(3)
         
+    }
+}
+
+class Test {
+    public static viod main (String[] args) {
+        System.out.priteln("Hello, World!");
     }
 }
