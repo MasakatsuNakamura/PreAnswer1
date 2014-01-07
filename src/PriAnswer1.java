@@ -22,7 +22,7 @@ public class PriAnswer1{
 }
 
 class Test {
-    public static viod main (String[] args) {
-        System.out.priteln("Hello, World!");
+    public static void main (String[] args) {
+        System.out.println("Hello, World!");
     }
 }
